@@ -1,7 +1,7 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 
 # Space Traveler's Hub
-- In this App We will be working with the real live data from the SpaceX API. We build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+Space-traveler is a web app where users can make Rockets and Dragons reservations. The app fetches data from a Space-X API, The UI is designed for users to interact with the data. In the app, users can also join space missions. The App is built with React Library and Redux technology.
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
