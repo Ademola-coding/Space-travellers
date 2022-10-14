@@ -13,20 +13,20 @@ To get a local copy up and running follow these simple steps.
 - Open the terminal on your computer
 - Navigate through directories using [change directory (cd)](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10) command to where you want to clone the repository.
 - Type the following command then press ENTER: 
-  - git clone https://github.com/MarcoOquendoC/space-travelers.git
+  - git clone https://github.com/Ademola-coding/Space-travellers..git
 - the terminal will send to you information about your download.
 - Type the following command then press ENTER: 
   - cd space-travelers
 - **Type the following lists of commands and press ENTER after each command:**
   - *Basic Setup*
-    - npm install
-    - npm start
+    - `npm install`
+    - `npm start`
 
   - **Open project in VSC**
-    - code .
+    - `code .`
 
   - **Run Tests**
-  - npm test
+  - `npm test`
 
 ## Built With
 - **HTML/CSS & JS best practices:** Correct use of tags, elements, properties and syntax.
