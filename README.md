@@ -39,17 +39,15 @@ To get a local copy up and running follow these simple steps.
 - [Link comming soon]()
 
 ## Author
-### 👤 Marco Oquendo
-- GitHub: [@MarcoOquendoC](https://github.com/MarcoOquendoC)
-- Twitter: [@marcooquendoc](https://twitter.com/marcooquendoc)
-- LinkedIn: [Marco Vinicio Oquendo](https://www.linkedin.com/in/vinicio-oquendo-4a289156/)
-
-### 👤 Abdulrahman Nganje
-GitHub: [@Nganje](https://github.com/asnganje)
-LinkedIn: [@Nganje](https://www.linkedin.com/in/abdulrahman-nganje-a6436935/)
 
 ### 👤 Ademola Owoeye
 GitHub: [@Ademola-coding](https://github.com/Ademola-coding)
+
+### 👤 Marco Oquendo
+- GitHub: [@MarcoOquendoC](https://github.com/MarcoOquendoC)
+
+### 👤 Abdulrahman Nganje
+GitHub: [@Nganje](https://github.com/asnganje)
 
 ## Acknowledgments
 
