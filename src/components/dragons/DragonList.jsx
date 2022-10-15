@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getDragons } from '../../redux/dragons';
@@ -7,7 +8,9 @@ const DragonsList = () => {
   const dragonsList = useSelector((state) => state.dragons);
   const dispatch = useDispatch();
   useEffect(() => {
-    if (!dragonsList.length) dispatch(getDragons());
+    if (!dragonsList.length) {
+      dispatch(getDragons());
+    }
   }, []);
 
   return (
