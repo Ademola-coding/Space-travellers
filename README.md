@@ -5,7 +5,7 @@ Space-traveler is a web app where users can make Rockets and Dragons reservation
 
 
 ## 🌎 Live Demo:
-- [Kindly view]()
+- [Kindly view](https://boisterous-pony-23a86f.netlify.app/)
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
