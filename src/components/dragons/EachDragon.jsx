@@ -24,9 +24,7 @@ const Dragon = (props) => {
     <div className="dragon-container container">
       <img className="dragon-container-img" src={flickrImages0} alt={name} />
       <div className="dragon-info">
-        <h2 className="dragon-info-title">
-          {name}
-        </h2>
+        <h2 className="dragon-info-title">{name}</h2>
         <span className="dragon-info-span">
           {dragonReserved === true && (<div className="reserved">Reserved</div>)}
           {type}
