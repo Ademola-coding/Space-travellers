@@ -42,7 +42,7 @@ with the steps above, you can have a copy of the project
 GitHub: [@Ademola-coding](https://github.com/Ademola-coding)
 
  👤 Marco Oquendo
-- GitHub: [@MarcoOquendoC](https://github.com/MarcoOquendoC)
+ GitHub: [@MarcoOquendoC](https://github.com/MarcoOquendoC)
 
  👤 Abdulrahman Nganje
 GitHub: [@Nganje](https://github.com/asnganje)
