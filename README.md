@@ -8,46 +8,43 @@ Space-traveler is a web app where users can make Rockets and Dragons reservation
 - [Kindly view](https://boisterous-pony-23a86f.netlify.app/)
 
 ## Getting Started
-To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-- VIsual Studio Code.
+you can have a copy of this project by cloning this repo to your local machine
+`https://github.com/Ademola-coding/Space-travellers.git`
 
-### Setup
-- Open the terminal on your computer
-- Navigate through directories using [change directory (cd)](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10) command to where you want to clone the repository.
-- Type the following command then press ENTER: 
-  - git clone https://github.com/Ademola-coding/Space-travellers..git
-- the terminal will send to you information about your download.
-- Type the following command then press ENTER: 
-  - cd space-travelers
-- **Type the following lists of commands and press ENTER after each command:**
-  - *Basic Setup*
-    - `npm install`
-    - `npm start`
+## procedure
+- open git bash
+- git mkdir Space-Traveller
+- cd Space-travellers
+- git clone ` https://github.com/Ademola-coding/Space-travellers.git `
+- code .
 
-  - **Open project in VSC**
-    - `code .`
+## Install
+ 
+ - `npm i`
+ - `npm install react-redux @reduxjs/toolkit`
+ 
+## Run
+ - `npm start`
 
-  - **Run Tests**
-  - `npm test`
+## Prerequisites
 
-## Built With
-- **HTML/CSS & JS best practices:** Correct use of tags, elements, properties and syntax.
-- **GitHub flow:** Correct use of Branches for deployment and features development.
-- **Linters Check:** Local and Pull Request check for errors, bugs and stylistic errors in code.
-- **Webpack:** used as a bundle to compile JavaScript modules.
-- **REACT JS + REDUX:** JavaScript library for building user interface.
+- **Web Browser**
+- Internet Service. 
+- Basic Knowledge about Git and Github.
+- VSCode.
 
-## Author
+with the steps above, you can have a copy of the project 
 
-### 👤 Ademola Owoeye
+## Authors
+
+ 👤 Ademola Owoeye
 GitHub: [@Ademola-coding](https://github.com/Ademola-coding)
 
-### 👤 Marco Oquendo
+ 👤 Marco Oquendo
 - GitHub: [@MarcoOquendoC](https://github.com/MarcoOquendoC)
 
-### 👤 Abdulrahman Nganje
+ 👤 Abdulrahman Nganje
 GitHub: [@Nganje](https://github.com/asnganje)
 
 ## Acknowledgments
