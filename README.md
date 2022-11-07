@@ -2,6 +2,8 @@
 
 # Space Traveler's Hub
 Space-traveler is a web app where users can make Rockets and Dragons reservations. The app fetches data from a Space-X API, The UI is designed for users to interact with the data. In the app, users can also join space missions. The App is built with React Library and Redux technology.
+![React App 11-8-2022 12-27-38 AM](https://user-images.githubusercontent.com/96092850/200437432-71a09967-f0d6-40ee-bde5-01aa1bbf8b20.png)
+![React App 11-8-2022 12-29-56 AM](https://user-images.githubusercontent.com/96092850/200437439-7772bdbe-3f32-406d-a3ef-b4cd2c90c7f6.png)
 
 ## Video Description
 
